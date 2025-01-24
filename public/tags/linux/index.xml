@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Behouba Manassé K</title>
-    <link>https://behouba.github.io/</link>
-    <description>Recent content on Behouba Manassé K</description>
+    <title>Linux on Behouba Manassé K</title>
+    <link>https://behouba.github.io/tags/linux/</link>
+    <description>Recent content in Linux on Behouba Manassé K</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Behouba Manassé Kouamé</copyright>
     <lastBuildDate>Tue, 03 Oct 2023 11:25:52 +0300</lastBuildDate>
-    <atom:link href="https://behouba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://behouba.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memory Forensics analysis of container checkpoints with checkpointctl</title>
       <link>https://behouba.github.io/2023/10/memory-forensics-analysis-of-container-checkpoints-with-checkpointctl/</link>
@@ -29,13 +29,6 @@
       <pubDate>Sat, 14 Mar 2020 18:45:52 +0100</pubDate>
       <guid>https://behouba.github.io/2020/03/what-happens-when-you-boot-your-linux-system/</guid>
       <description>Have you ever wondered what’s really going on when you press the power button on your Linux machine? I mean, sure, you see your distribution logo, maybe a loading spinner, and then the login screen. But what’s happening under the hood? Let’s take a journey together, from the moment you hit that power button to when you’re greeted by the login screen. I’ll explain this process for Fedora which is my favorite Linux distribution!</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://behouba.github.io/about/</link>
-      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
-      <guid>https://behouba.github.io/about/</guid>
-      <description>This is some static page where you can write about yourself.</description>
     </item>
   </channel>
 </rss>
